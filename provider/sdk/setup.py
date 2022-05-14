@@ -22,7 +22,7 @@ setup(
     name="feast-azure-provider",
     author="Microsoft",
     version="0.3.0",
-    description="A Feast Azure Provider",
+    description="A Feast Azure Provider - Daniel Faioli Fork",
     URL="https://github.com/azure/feast-azure",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
